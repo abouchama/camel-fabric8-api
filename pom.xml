@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>camel-springboot-rest-ose</artifactId>
+  <artifactId>camel-fabric8-rest</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>REST :: Spring-Boot :: Camel XML</name>
