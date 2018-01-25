@@ -11,7 +11,7 @@
 
       <route id="rest-getPersonId">
           <from uri="{{env:CAMEL_FROM}}"/>
-          <log message="{{env:CAMEL_LOG_MSG}}"/>
+          <!--log message="{{env:CAMEL_LOG_MSG}}"/-->
           <setBody>
               <simple> {{env:CAMEL_SETBODY}} </simple>
           </setBody>
