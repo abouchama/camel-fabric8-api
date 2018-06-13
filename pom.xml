@@ -155,16 +155,6 @@
             </goals>
           </execution>
         </executions>
-      
-        <configuration>
-          <resources>
-            <labels>
-              <all>
-                <space>DevoxxMA</space>
-              </all>
-            </labels>
-          </resources>
-        </configuration>
       </plugin>
 
     </plugins>
